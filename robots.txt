@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /kit.html
+Disallow: /search.html
+
+User-agent: Mediapartners-Google
+Allow: /
+
+Sitemap: https://puberty101.com/sitemap.xml
