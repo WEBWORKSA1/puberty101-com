@@ -1,0 +1,15 @@
+{
+ "name": "Puberty101.com",
+ "short_name": "Puberty101",
+ "start_url": "/",
+ "display": "standalone",
+ "background_color": "#fffdf8",
+ "theme_color": "#5b3fd6",
+ "icons": [
+  {
+   "src": "/assets/img/logo.svg",
+   "sizes": "any",
+   "type": "image/svg+xml"
+  }
+ ]
+}
